@@ -1,0 +1,19 @@
+﻿  bakery.cpp
+C:\Users\victo\source\repos\Padaria Bakery\Padaria Bakery\bakery.cpp(132,53): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\victo\source\repos\Padaria Bakery\Padaria Bakery\bakery.cpp(174,23): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\victo\source\repos\Padaria Bakery\Padaria Bakery\bakery.cpp(561,39): warning C4244: '+=': conversão de 'double' para 'int', possível perda de dados
+C:\Users\victo\source\repos\Padaria Bakery\Padaria Bakery\bakery.cpp(649,34): warning C4244: 'inicializando': conversão de 'double' para 'int', possível perda de dados
+C:\Users\victo\source\repos\Padaria Bakery\Padaria Bakery\bakery.cpp(685,34): warning C4244: 'inicializando': conversão de 'double' para 'int', possível perda de dados
+C:\Users\victo\source\repos\Padaria Bakery\Padaria Bakery\bakery.cpp(721,34): warning C4244: 'inicializando': conversão de 'double' para 'int', possível perda de dados
+C:\Users\victo\source\repos\Padaria Bakery\Padaria Bakery\bakery.cpp(744,60): warning C4244: '*=': conversão de 'double' para 'int', possível perda de dados
+  client.cpp
+  date.cpp
+C:\Users\victo\source\repos\Padaria Bakery\Padaria Bakery\date.cpp(527,23): warning C4552: '-': o resultado da expressão não é usado
+  employee.cpp
+  menu.cpp
+  order.cpp
+  Padaria Bakery.cpp
+  product.cpp
+C:\Users\victo\source\repos\Padaria Bakery\Padaria Bakery\product.cpp(229,15): warning C4244: 'inicializando': conversão de 'double' para 'int', possível perda de dados
+  Gerando Código...
+  Padaria Bakery.vcxproj -> C:\Users\victo\source\repos\Padaria Bakery\Debug\Padaria Bakery.exe
