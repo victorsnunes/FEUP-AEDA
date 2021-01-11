@@ -1,0 +1,6 @@
+addBakery Rua_dos_padeiros_80
+addClient 123456 Victor normal
+goToBakery 123456 Rua_dos_padeiros_80
+addEmployee Rua_dos_padeiros_80 Jose 987123 800 cooker
+addEmployee Rua_dos_padeiros_80 Ronaldo 654 900 deliveryman
+addEmployee Rua_dos_padeiros_80 Ana 123654123 100 cleaner
